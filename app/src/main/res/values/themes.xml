@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BadApple" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.BadApple.Starting" parent="Theme.Catppuccin.Frappe.SplashScreen">
+<!--        <item name="windowSplashScreenAnimatedIcon">@drawable/catppuccin</item>-->
+        <item name="windowSplashScreenAnimationDuration">500</item>
+        <item name="postSplashScreenTheme">@style/Theme.BadApple</item>
+    </style>
+</resources>
