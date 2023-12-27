@@ -1,1 +1,1 @@
-Bad Apple android native demo
+Bad Apple Demo powered by native android vector graphics 
